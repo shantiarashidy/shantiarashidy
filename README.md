@@ -7,7 +7,7 @@ i have two years of experience in programming with python and c++
 Skills: PYTHON/C++
 
 - 🔭 I’m currently working on university projects 
-- 🌱 I’m currently learning about programming  
+- 🌱 I’m currently learning about Machine learning
 - 📫 How to reach me: shantiarashidy12@gmail.com
 
 
