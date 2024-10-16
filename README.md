@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 #### my name is shantia rashidy from IRAN I am a computer engineering student at university of Gonabad 
-i have two years of experience in programming with python and c++
+i have two years of experience in programming with python and c++ 
 
 
 Skills: PYTHON/C++
 
-- 🔭 I’m currently working on university projects 
-- 🌱 I’m currently learning about Machine learning
+- 🔭 I’m currently working on university and Machine learning projects
+- 🌱 I’m currently learning about AI,Machine learning and data science
 - 📫 How to reach me: shantiarashidy12@gmail.com
 
 
