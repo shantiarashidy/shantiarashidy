@@ -4,7 +4,7 @@
 i have two years of experience in programming with python and c++ 
 
 
-Skills: PYTHON/C++
+Skills: PYTHON/C++/Data science/Machine Learning/Data analysis/Git
 
 - 🔭 I’m currently working on university and Machine learning projects
 - 🌱 I’m currently learning about AI,Machine learning and data science
