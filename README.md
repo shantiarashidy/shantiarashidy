@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shantia rashidy</h1>
+<h1 align="center">Hi 👋, I'm Shantia Rashidy</h1>
 <h3 align="center">my name is shantia rashidy from IRAN I am a computer engineering student at university of Gonabad</h3>
 
 - 🔭 I’m currently working on **Machine learning projects**
@@ -9,7 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/shantia rashidy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shantia rashidy" height="30" width="40" /></a>
 <a href="https://instagram.com/shantia_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shantia_05" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shantia_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shantia_05" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
